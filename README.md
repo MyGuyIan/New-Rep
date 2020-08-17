@@ -1,4 +1,1 @@
-#Practicing Git!
-
-
-yes
+Practicing Git!
